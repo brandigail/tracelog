@@ -2,7 +2,7 @@
 
 A lightweight Datadog-style log monitor. Apps send logs to an API-key-protected ingestion endpoint; the dashboard streams them live, charts them by severity, searches them with highlighting, opens stack traces, and posts to Discord or Slack when errors spike.
 
-**Live demo:** TBD (built and tested locally, not yet deployed)
+**Live demo:** https://tracelog.netlify.app
 
 ![The dashboard](docs/screenshots/dashboard-desktop.png)
 
